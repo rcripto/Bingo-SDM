@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Bingo</string>
+    <string name="sortear">Sortear</string>
+    <string name="novo">Novo jogo</string>
+</resources>
